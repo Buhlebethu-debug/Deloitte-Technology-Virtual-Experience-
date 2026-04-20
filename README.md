@@ -1,2 +1,5 @@
-# Deloitte-Technology-Virtual-Experience-
-Completed Deloitte Australia's Data Analytics on Forage. In the simulation I:  * Completed a Deloitte job simulation involving data analysis and forensic    technology   * Created a data dashboard using Tableau   * Used Excel to classify data and draw business conclusions
+## Deloitte Technology Virtual Experience (Forage)
+- Analysed 160,000+ rows of telemetry data in Tableau
+- Built an interactive dashboard to identify factory downtime
+- Used Excel IF formulas to classify gender pay equality scores
+- Tools: Tableau, Microsoft Excel, JSON
